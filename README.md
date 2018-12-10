@@ -1,8 +1,9 @@
 # Boxplot
-The box plot is a diagram that consist of five measurements or “Five Number Summary”: (minimum, first quartile, median, third quartile, and maximum) which together display any given data. 
+The box plot is a diagram that consist of five measurements or “Five Number Summary”: (minimum, first quartile, median, third quartile, and maximum) which together display any given data. I haev chosen a dataset that is called 'tips', it describes data taken by a waiter in a restaurant on the tips he made. 
 You can find the project in teh ![Jupyter Notebook](https://github.com/MartynaMisk/Boxplot/blob/master/BoxplotsJupyter.ipynb). 
 
-![Logo]()
+![Logo](https://github.com/MartynaMisk/Boxplot/blob/master/original.jpg)
+Photo taken directly from my jupyter notebook. Boxplot on total bill amount.
 
 ## Main area of focus:
 1. Summarise the history of the box plot and situations in which it is used.
