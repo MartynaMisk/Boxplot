@@ -24,6 +24,7 @@ You can find the project in teh ![Jupyter Notebook](https://github.com/MartynaMi
 - Catplot
 
 ## Summary
+To conclude, Boxplots are a great wat to visually represent data depending on what the variables are in the dataset and what do we want to represent in our graphs. This project gave me an insight to different seaborn libraries for graphs and also, I got to review fundamentals of maths to create those graphs.  
 
 ### References
 1. Hisotry https://en.wikipedia.org/wiki/File:Michelsonmorley-boxplot.svg
